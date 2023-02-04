@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&family=Lora:ital,wght@1,400;1,500;1,600&family=Poppins:ital,wght@0,100;0,600;1,300;1,400;1,600&family=Varela&display=swap");
+body {
+  background: url("https://img.freepik.com/free-vector/gradient-wave-purple-background-design-abstract-modern_343694-2316.jpg?w=1380&t=st=1675501307~exp=1675501907~hmac=51f247806316637c9dffba683cd7ea9f43203504da10d051d40f660def678178");
+  background-size: cover;
+  background-position: center;
+  font-family: "Poppins", sans-serif;
+}
+table caption {
+  font-size: 30px;
+  font-weight: 600;
+}
+table {
+  border: none;
+}
+table td {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 5px;
+}
+
+.container {
+  margin: 50px auto;
+  color: white;
+}
+
+.glass {
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.1),
+    rgba(255, 255, 255, 0)
+  );
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
