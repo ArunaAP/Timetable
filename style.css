@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&family=Lora:ital,wght@1,400;1,500;1,600&family=Poppins:ital,wght@0,100;0,600;1,300;1,400;1,600&family=Varela&display=swap");
 body {
-  background: url("https://media.istockphoto.com/id/1411682102/photo/3d-abstract-colorful-background-suitable-for-magazine-covers-banners-and-brochures-3d-render.jpg?b=1&s=170667a&w=0&k=20&c=uIf4qSqwxGV8aObX-1fWAx7FEQ0bs7MNUYxWPmFIwK8=");
+  background: url("https://4kwallpapers.com/images/wallpapers/macos-monterey-wwdc-21-stock-dark-mode-5k-4480x2520-5585.jpg");
   background-size: cover;
   background-position: center;
   font-family: "Poppins", sans-serif;
@@ -34,4 +34,10 @@ table td {
   border-radius: 10px;
   border: 1px solid rgba(255, 255, 255, 0.18);
   box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+.foot a{
+  color: crimson;
+  font-size: 15px;
+  text-decoration: none;
 }
